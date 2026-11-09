@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hei! Olen Yassin Arguez
 
-<!--
-**yassinarguez65-lang/yassinarguez65-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Opiskelen tieto- ja viestintätekniikkaa Business Collegessa Helsingissä.
 
-Here are some ideas to get you started:
+## Minusta
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olen kiinnostunut ohjelmoinnista, verkkosivujen kehittämisestä ja IT-alasta. Tykkään oppia uusia asioita tekemällä käytännön projekteja.
+
+## Osaaminen
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git ja GitHub
+
+## Projektit
+
+Täältä löydät opintojeni aikana toteuttamiani projekteja:
+
+- Työaikaseuranta
+- Ventti-korttipeli
+- Seikkailupeli
+
